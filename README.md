@@ -34,25 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
 </p>
-
 ---
 
-<h3 align="center">📝 Últimos artigos no Medium</h3>
-<div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/2">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/2" alt="Medium post 3"  />
-  </a>
-</div>
+<h3 align="left">📊 Estatísticas:</h3>
 
----
-
-<h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samuelf27/samuelf27/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelFerreira27&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFerreira27&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
