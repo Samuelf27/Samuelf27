@@ -34,7 +34,6 @@
     <i
 
 
-
-<img src="https://raw.githubusercontent.com/SAMUEL /SAMUEL /output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuelf27/samuelf27/output/snake.svg" alt="Snake animation" />
+</p>
