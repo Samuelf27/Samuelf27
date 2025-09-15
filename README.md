@@ -34,14 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
 </p>
+
 ---
 
-<h3 align="left">📊 Estatísticas:</h3>
+<h3 align="left">✍️ Meus artigos:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelFerreira27&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <a href="https://medium.com/@samuuka_zs" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFerreira27&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
