@@ -49,3 +49,10 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@samuuka_zs/2" alt="Medium post 3"  />
   </a>
 </div>
+
+---
+
+<h3 align="center">🐍 Snake Animation</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuelf27/samuelf27/output/snake.svg" alt="Snake animation" />
+</p>
