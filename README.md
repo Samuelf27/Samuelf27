@@ -32,3 +32,9 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <i
+
+
+
+<img src="https://raw.githubusercontent.com/SAMUEL /SAMUEL /output/snake.svg" alt="Snake animation" />
+
+###
