@@ -37,11 +37,10 @@
 
 ---
 
-<h3 align="left">✍️ Meus artigos:</h3>
+---
+
+<h3 align="left">🐍 Contribuições:</h3>
 
 <p align="center">
-  <a href="https://medium.com/@samuuka_zs" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/SamuelFerreira27/SamuelFerreira27/output/snake.svg" alt="Snake animation" />
 </p>
-
