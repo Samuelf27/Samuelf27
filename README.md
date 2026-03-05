@@ -34,12 +34,6 @@ Automação para leitura e manipulação de dados em planilhas Excel utilizando 
 
 🔗 https://github.com/Samuelf27/Automacao_planilhas
 
----
-
-🗄 **Projetos de SQL para análise de dados**  
-Consultas SQL focadas em manipulação, análise e exploração de dados.
-
----
 
 ### 🛠️ Linguagens e Ferramentas
 
