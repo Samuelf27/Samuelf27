@@ -1,12 +1,16 @@
 <h1 align="center">Olá 👋, eu sou Samuel Ferreira</h1>
 <h3 align="center">Estudante de Engenharia de Software | Python | SQL | Data Analysis</h3>
 
+<p align="center">
+Buscando transformar dados em insights e problemas em soluções através da tecnologia.
+</p>
+
 ---
 
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software**
-- 📊 Interessado em **Análise de Dados e Desenvolvimento**
+- 📊 Interesse em **Análise de Dados e Desenvolvimento**
 - 🌱 Atualmente aprendendo **Python, SQL e Power BI**
 - 🚀 Desenvolvendo projetos com **automação, análise de dados e dashboards**
 - 💡 Buscando **oportunidade de estágio na área de tecnologia**
@@ -19,15 +23,21 @@
 ### 🚀 Projetos em Destaque
 
 📊 **Análise de Score de Clientes com Python**  
-Análise de dados utilizando **Python, Pandas e Scikit-Learn** para estudar o perfil de clientes.  
+Análise de dados utilizando **Python, Pandas e Scikit-Learn** para estudar o perfil de clientes.
+
 🔗 https://github.com/Samuelf27/Analise_de_Score_de_Clientes_com_Python_Pandas_Sklearn
 
+---
+
 🤖 **Automação de Planilhas com Python**  
-Script em Python para **leitura e manipulação automática de planilhas Excel**.  
+Automação para leitura e manipulação de dados em planilhas Excel utilizando Python.
+
 🔗 https://github.com/Samuelf27/Automacao_planilhas
 
+---
+
 🗄 **Projetos de SQL para análise de dados**  
-Consultas e exercícios para **análise e manipulação de bancos de dados**.
+Consultas SQL focadas em manipulação, análise e exploração de dados.
 
 ---
 
@@ -72,8 +82,16 @@ Consultas e exercícios para **análise e manipulação de bancos de dados**.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&theme=tokyonight"/>
 
+</p>
+
+---
+
+### 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Samuelf27&theme=tokyonight"/>
 </p>
