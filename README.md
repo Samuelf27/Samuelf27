@@ -34,6 +34,7 @@ Automação para leitura e manipulação de dados em planilhas Excel utilizando 
 
 🔗 https://github.com/Samuelf27/Automacao_planilhas
 
+---
 
 ### 🛠️ Linguagens e Ferramentas
 
