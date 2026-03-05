@@ -1,38 +1,79 @@
-<h1 align="center">Oi 👋, eu sou Samuel</h1>
-<h3 align="center">Transformando café em código e bugs em aprendizado 🚀☕</h3>
-
-- 🌱 Atualmente estou aprendendo **Python e SQL**
-- 📫 Como entrar em contato comigo: **samuel_f27@outlook.com**
-- 📄 Veja minhas experiências no [LinkedIn](https://www.linkedin.com/in/samuel-ferreira27/)
+<h1 align="center">Olá 👋, eu sou Samuel Ferreira</h1>
+<h3 align="center">Estudante de Engenharia de Software | Python | SQL | Data Analysis</h3>
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
+### 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Engenharia de Software**
+- 📊 Interessado em **Análise de Dados e Desenvolvimento**
+- 🌱 Atualmente aprendendo **Python, SQL e Power BI**
+- 🚀 Desenvolvendo projetos com **automação, análise de dados e dashboards**
+- 💡 Buscando **oportunidade de estágio na área de tecnologia**
+
+📫 **Contato:** samuel_f27@outlook.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/samuel-ferreira27/
+
+---
+
+### 🚀 Projetos em Destaque
+
+📊 **Análise de Score de Clientes com Python**  
+Análise de dados utilizando **Python, Pandas e Scikit-Learn** para estudar o perfil de clientes.  
+🔗 https://github.com/Samuelf27/Analise_de_Score_de_Clientes_com_Python_Pandas_Sklearn
+
+🤖 **Automação de Planilhas com Python**  
+Script em Python para **leitura e manipulação automática de planilhas Excel**.  
+🔗 https://github.com/Samuelf27/Automacao_planilhas
+
+🗄 **Projetos de SQL para análise de dados**  
+Consultas e exercícios para **análise e manipulação de bancos de dados**.
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+
 <p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+
 <a href="https://www.linkedin.com/in/samuel-ferreira27/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
+
 <a href="https://instagram.com/samuuka_zs" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
+
 <a href="https://discord.com/users/samuuka_zs" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
 </a>
+
 </p>
 
 ---
 
-<h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress"/>
-</p>
+### 📊 Estatísticas do GitHub
 
----
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&theme=tokyonight"/>
+
+</p>
