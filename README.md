@@ -21,7 +21,7 @@ Construindo aplicações web modernas — do código ao deploy.
 - 🎨 Trabalho com **Next.js, TypeScript, React, Node.js e Supabase** no dia a dia
 - 📊 Background sólido em **análise de dados** com Python, SQL e Power BI
 - 🤖 Experiência prática com **automação (RPA)** e **IA aplicada** (OpenAI, Machine Learning)
-- 🎓 Cursando **Engenharia de Software** (Estácio) | Formado em **ADS** pela FIAP
+- 🎓 Formado em **ADS** pela FIAP
 - 🚀 Em busca da próxima etapa: **vaga CLT como Desenvolvedor Júnior**
 
 📫 **Contato:** samuel_f27@outlook.com  
