@@ -6,6 +6,13 @@
 Construindo aplicações web modernas — do código ao deploy.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-ferreira27/"><img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:samuel_f27@outlook.com"><img src="https://img.shields.io/badge/Email-samuel__f27@outlook.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Samuelf27&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Visitas no perfil"/>
+  <a href="https://github.com/Samuelf27?tab=followers"><img src="https://img.shields.io/github/followers/Samuelf27?label=Seguidores&style=flat&color=0e75b6" alt="Seguidores"/></a>
+</p>
+
 ---
 
 ### 👨‍💻 Sobre mim
@@ -13,6 +20,7 @@ Construindo aplicações web modernas — do código ao deploy.
 - 💻 Atuo como **Desenvolvedor Full-Stack**, construindo e mantendo aplicações web em produção
 - 🎨 Trabalho com **Next.js, TypeScript, React, Node.js e Supabase** no dia a dia
 - 📊 Background sólido em **análise de dados** com Python, SQL e Power BI
+- 🤖 Experiência prática com **automação (RPA)** e **IA aplicada** (OpenAI, Machine Learning)
 - 🎓 Cursando **Engenharia de Software** (Estácio) | Formado em **ADS** pela FIAP
 - 🚀 Em busca da próxima etapa: **vaga CLT como Desenvolvedor Júnior**
 
@@ -42,12 +50,13 @@ Construindo aplicações web modernas — do código ao deploy.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
-**Dados & Outros**  
+**Dados, Automação & IA**  
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
@@ -57,20 +66,22 @@ Construindo aplicações web modernas — do código ao deploy.
 ### 🚀 Projetos em Destaque
 
 **🎨 Site da 1M2F Art Gallery**  
-Site institucional desenvolvido e mantido em produção para galeria de arte em São Paulo. Stack: Next.js, TypeScript, React, Supabase.  
-🔗 [Em breve / link do site]
+Site institucional desenvolvido e mantido em produção para galeria de arte em São Paulo. Stack: Next.js, TypeScript, React, Supabase.
 
 **✨ Site da SFN Creative**  
-Desenvolvimento de site e melhorias contínuas. Stack: Next.js, TypeScript, Node.js.  
-🔗 [Em breve / link do site]
+Desenvolvimento de site e melhorias contínuas. Stack: Next.js, TypeScript, Node.js.
 
-**📊 Análise de Score de Clientes com Python**  
-Análise de dados utilizando Python, Pandas e Scikit-Learn para estudar o perfil de clientes.  
+**🍰 Doce Sabor — Plataforma Full-Stack de Pedidos**  
+Aplicação full-stack para confeitaria, com catálogo, carrinho, checkout e painel administrativo. Node.js, Express, MySQL e JWT.  
+🔗 [Repositório](https://github.com/Samuelf27/doce_sabor_fullstack_food_ordering_platform)
+
+**📊 Análise de Score de Clientes (Machine Learning)**  
+Modelos de classificação em Python (Pandas + scikit-learn) para prever score de crédito, atingindo até 82% de acurácia.  
 🔗 [Repositório](https://github.com/Samuelf27/Analise_de_Score_de_Clientes_com_Python_Pandas_Sklearn)
 
-**🤖 Automação de Planilhas com Python**  
-Automação para leitura e manipulação de dados em planilhas Excel utilizando Python.  
-🔗 [Repositório](https://github.com/Samuelf27/Automacao_planilhas)
+**🤖 Chatbot com IA (Streamlit + OpenAI)**  
+Chat interativo em tempo real com a API da OpenAI, histórico de conversa e interface web moderna.  
+🔗 [Repositório](https://github.com/Samuelf27/Chatbot_Com_IA_Streamlit_OpenAI_Python)
 
 ---
 
@@ -99,4 +110,8 @@ Automação para leitura e manipulação de dados em planilhas Excel utilizando 
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Samuelf27&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Samuelf27&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Troféus"/>
 </p>
