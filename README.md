@@ -65,14 +65,14 @@ Construindo aplicações web modernas — do código ao deploy.
 
 ### 🚀 Projetos em Destaque
 
-**🎨 Site da 1M2F Art Gallery**  
+**🎨 1M2F Art Gallery** — 🌐 [1m2f.com](https://1m2f.com/)  
 Site institucional desenvolvido e mantido em produção para galeria de arte em São Paulo. Stack: Next.js, TypeScript, React, Supabase.
 
-**✨ Site da SFN Creative**  
+**✨ SFN Creative** — 🌐 [sfncreative.tech](https://sfncreative.tech/)  
 Desenvolvimento de site e melhorias contínuas. Stack: Next.js, TypeScript, Node.js.
 
 **🍰 Doce Sabor — Plataforma Full-Stack de Pedidos**  
-Aplicação full-stack para confeitaria, com catálogo, carrinho, checkout e painel administrativo. Node.js, Express, MySQL e JWT.  
+Aplicação full-stack para uma sorveteria, com catálogo, carrinho, checkout e painel administrativo. Node.js, Express, MySQL e JWT.  
 🔗 [Repositório](https://github.com/Samuelf27/doce_sabor_fullstack_food_ordering_platform)
 
 **📊 Análise de Score de Clientes (Machine Learning)**  
