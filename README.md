@@ -85,6 +85,18 @@ Chat interativo em tempo real com a API da OpenAI, histórico de conversa e inte
 
 ---
 
+### 🧰 Ferramentas & Open-Source (ao vivo)
+
+| Projeto | Descrição | Acesse |
+|---|---|---|
+| 🇧🇷 **br-utils** | Biblioteca TypeScript de validação BR (CPF, CNPJ, CEP...), testada com CI | [demo](https://samuelf27.github.io/br-utils/) · [código](https://github.com/Samuelf27/br-utils) |
+| 🧰 **DevToolbox** | Suíte de ferramentas para devs: JSON, Base64, JWT, hash, UUID... | [abrir](https://samuelf27.github.io/devtoolbox/) |
+| 📊 **GitHub Analyzer** | Dashboard de perfil do GitHub com gráficos (Chart.js) | [abrir](https://samuelf27.github.io/github-analyzer/) |
+| ✅ **TaskFlow** | Quadro Kanban (PWA) com arrastar-e-soltar | [abrir](https://samuelf27.github.io/taskflow-kanban/) |
+| 🌟 **Portfólio** | Meu portfólio pessoal, responsivo e animado | [abrir](https://samuelf27.github.io/portfolio/) |
+
+---
+
 ### 🌐 Conecte-se comigo
 
 <p align="left">
@@ -114,4 +126,12 @@ Chat interativo em tempo real com a API da OpenAI, histórico de conversa e inte
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Samuelf27&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Troféus"/>
+</p>
+
+---
+
+### 🐍 Contribuições
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/github-snake-dark.svg" alt="Animação das contribuições" />
 </p>
