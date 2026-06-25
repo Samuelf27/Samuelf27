@@ -1,14 +1,15 @@
 <h1 align="center">Olá 👋, eu sou Samuel Ferreira</h1>
 
-<h3 align="center">Desenvolvedor Full-Stack | Next.js • TypeScript • React • Node.js | Cursando Eng. de Software</h3>
+<h3 align="center">Desenvolvedor Full-Stack · TypeScript • React • Node.js · Cursando Eng. de Software</h3>
 
 <p align="center">
-Construindo aplicações web modernas — do código ao deploy.
+Construindo aplicações web modernas — com testes, CI/CD e deploy. 🚀
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-ferreira27/"><img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:samuel_f27@outlook.com"><img src="https://img.shields.io/badge/Email-samuel__f27@outlook.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://samuelf27.github.io/hub/"><img src="https://img.shields.io/badge/Hub%20de%20Projetos-8b5cf6?style=flat&logo=githubpages&logoColor=white" alt="Hub"/></a>
   <img src="https://komarev.com/ghpvc/?username=Samuelf27&label=Visitas%20no%20perfil&color=0e75b6&style=flat" alt="Visitas no perfil"/>
   <a href="https://github.com/Samuelf27?tab=followers"><img src="https://img.shields.io/github/followers/Samuelf27?label=Seguidores&style=flat&color=0e75b6" alt="Seguidores"/></a>
 </p>
@@ -17,15 +18,14 @@ Construindo aplicações web modernas — do código ao deploy.
 
 ### 👨‍💻 Sobre mim
 
-- 💻 Atuo como **Desenvolvedor Full-Stack**, construindo e mantendo aplicações web em produção
-- 🎨 Trabalho com **Next.js, TypeScript, React, Node.js e Supabase** no dia a dia
-- 📊 Background sólido em **análise de dados** com Python, SQL e Power BI
-- 🤖 Experiência prática com **automação (RPA)** e **IA aplicada** (OpenAI, Machine Learning)
-- 🎓 Formado em **ADS** pela FIAP
-- 🚀 Em busca da próxima etapa: **vaga CLT como Desenvolvedor Júnior**
+- 💻 **Desenvolvedor Full-Stack** — construo aplicações web do código ao deploy
+- ⚡ Foco em **TypeScript, React/Next.js e Node.js**, com **testes automatizados** e **CI/CD**
+- 📦 Mantenho projetos **open-source**: biblioteca, design system, API boilerplate e CLI
+- 📊 Background sólido em **análise de dados** (Python, SQL, Power BI) e **IA aplicada** (OpenAI, ML)
+- 🎓 Cursando **Engenharia de Software** · Formado em **ADS** pela FIAP
+- 🚀 Em busca da próxima etapa: **vaga como Desenvolvedor Júnior**
 
-📫 **Contato:** samuel_f27@outlook.com  
-💼 **LinkedIn:** [samuel-ferreira27](https://www.linkedin.com/in/samuel-ferreira27/)
+📫 **Contato:** samuel_f27@outlook.com  ·  💼 **LinkedIn:** [samuel-ferreira27](https://www.linkedin.com/in/samuel-ferreira27/)
 
 ---
 
@@ -33,67 +33,62 @@ Construindo aplicações web modernas — do código ao deploy.
 
 **Front-end**  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="38" alt="Vite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3"/>
 </p>
 
 **Back-end & Banco**  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP"/>
 </p>
 
-**Dados, Automação & IA**  
+**Testes, DevOps & Dados**  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="SQL Server"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="Excel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="38" alt="Vitest"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="38" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="Pandas"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="38" alt="Power BI"/>
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### ⭐ Projetos em destaque
 
-**🎨 1M2F Art Gallery** — 🌐 [1m2f.com](https://1m2f.com/)  
-Site institucional desenvolvido e mantido em produção para galeria de arte em São Paulo. Stack: Next.js, TypeScript, React, Supabase.
+> 🔬 **Engenharia** — projetos com **testes, CI/CD e deploy** (o que faço de mais sério):
 
-**✨ SFN Creative** — 🌐 [sfncreative.tech](https://sfncreative.tech/)  
-Desenvolvimento de site e melhorias contínuas. Stack: Next.js, TypeScript, Node.js.
+| Projeto | O que é | Stack | Acesse |
+|---|---|---|---|
+| 📊 **admin-dashboard** | Painel administrativo: auth, CRUD, tabela, gráficos e dark mode | React · TS · Tailwind | [▶ demo](https://samuelf27.github.io/admin-dashboard/) · [código](https://github.com/Samuelf27/admin-dashboard) |
+| 🔐 **node-api-starter** | API REST de produção: JWT + refresh, RBAC, Zod, Swagger, Docker | TypeScript · Express | [código](https://github.com/Samuelf27/node-api-starter) |
+| 🎨 **react-ui-kit** | Design system: componentes acessíveis, design tokens, dark mode | React · TS · npm | [▶ docs](https://samuelf27.github.io/react-ui-kit/) · [código](https://github.com/Samuelf27/react-ui-kit) |
+| 🇧🇷 **br-utils** | Biblioteca de validação BR (CPF, CNPJ, PIS...), 30 testes + CI | TypeScript · npm | [▶ demo](https://samuelf27.github.io/br-utils/) · [código](https://github.com/Samuelf27/br-utils) |
+| 🧮 **data-structures** | Estruturas de dados & algoritmos em TS, com Big-O e testes | TypeScript | [código](https://github.com/Samuelf27/data-structures-typescript) |
 
-**🍰 Doce Sabor — Plataforma Full-Stack de Pedidos**  
-Aplicação full-stack para uma sorveteria, com catálogo, carrinho, checkout e painel administrativo. Node.js, Express, MySQL e JWT.  
-🔗 [Repositório](https://github.com/Samuelf27/doce_sabor_fullstack_food_ordering_platform)
+> 🏢 **Em produção** — entregues para clientes reais:
 
-**📊 Análise de Score de Clientes (Machine Learning)**  
-Modelos de classificação em Python (Pandas + scikit-learn) para prever score de crédito, atingindo até 82% de acurácia.  
-🔗 [Repositório](https://github.com/Samuelf27/Analise_de_Score_de_Clientes_com_Python_Pandas_Sklearn)
+**🎨 1M2F Art Gallery** — 🌐 [1m2f.com](https://1m2f.com/) · **✨ SFN Creative** — 🌐 [sfncreative.tech](https://sfncreative.tech/)
+Sites institucionais desenvolvidos e mantidos em produção. Stack: Next.js, TypeScript, React, Supabase.
 
-**🤖 Chatbot com IA (Streamlit + OpenAI)**  
-Chat interativo em tempo real com a API da OpenAI, histórico de conversa e interface web moderna.  
-🔗 [Repositório](https://github.com/Samuelf27/Chatbot_Com_IA_Streamlit_OpenAI_Python)
+**🍦 Doce Sabor** — plataforma full-stack de pedidos (catálogo, carrinho, checkout, admin). Node.js, Express, MySQL, JWT. [Repositório](https://github.com/Samuelf27/doce_sabor_fullstack_food_ordering_platform)
 
----
+> 📊 **Dados & IA:** [Score de Clientes (ML, 82%)](https://github.com/Samuelf27/Analise_de_Score_de_Clientes_com_Python_Pandas_Sklearn) · [Chatbot com IA (OpenAI)](https://github.com/Samuelf27/Chatbot_Com_IA_Streamlit_OpenAI_Python) · [DevToolbox](https://samuelf27.github.io/devtoolbox/) · Dashboards Power BI
 
-### 🧰 Ferramentas & Open-Source (ao vivo)
-
-| Projeto | Descrição | Acesse |
-|---|---|---|
-| 🇧🇷 **br-utils** | Biblioteca TypeScript de validação BR (CPF, CNPJ, CEP...), testada com CI | [demo](https://samuelf27.github.io/br-utils/) · [código](https://github.com/Samuelf27/br-utils) |
-| 🧰 **DevToolbox** | Suíte de ferramentas para devs: JSON, Base64, JWT, hash, UUID... | [abrir](https://samuelf27.github.io/devtoolbox/) |
-| 📊 **GitHub Analyzer** | Dashboard de perfil do GitHub com gráficos (Chart.js) | [abrir](https://samuelf27.github.io/github-analyzer/) |
-| ✅ **TaskFlow** | Quadro Kanban (PWA) com arrastar-e-soltar | [abrir](https://samuelf27.github.io/taskflow-kanban/) |
-| 🌟 **Portfólio** | Meu portfólio pessoal, responsivo e animado | [abrir](https://samuelf27.github.io/portfolio/) |
+<p align="center">
+  <a href="https://samuelf27.github.io/hub/"><b>🚀 Veja todos os projetos no meu Hub →</b></a>
+</p>
 
 ---
 
