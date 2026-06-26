@@ -78,8 +78,8 @@
     <circle cx="62" cy="17" r="5.5" fill="#27c93f"/>
     <g font-family="'JetBrains Mono', Consolas, monospace" font-size="14.5">
       <text x="22" y="72"><tspan fill="#c084fc">const</tspan><tspan fill="#67e8f9"> dev</tspan><tspan fill="#9a9ab2"> = {</tspan></text>
-      <text x="40" y="98"><tspan fill="#93c5fd">foco</tspan><tspan fill="#9a9ab2">: </tspan><tspan fill="#86efac">'qualidade'</tspan><tspan fill="#9a9ab2">,</tspan></text>
-      <text x="40" y="124"><tspan fill="#93c5fd">entrega</tspan><tspan fill="#9a9ab2">: </tspan><tspan fill="#86efac">'do código ao deploy'</tspan><tspan fill="#9a9ab2">,</tspan></text>
+      <text x="40" y="98"><tspan fill="#93c5fd">stack</tspan><tspan fill="#9a9ab2">: </tspan><tspan fill="#86efac">'TS · React · Node'</tspan><tspan fill="#9a9ab2">,</tspan></text>
+      <text x="40" y="124"><tspan fill="#93c5fd">foco</tspan><tspan fill="#9a9ab2">: </tspan><tspan fill="#86efac">'testes &amp; deploy'</tspan><tspan fill="#9a9ab2">,</tspan></text>
       <text x="40" y="150"><tspan fill="#93c5fd">aprende</tspan><tspan fill="#9a9ab2">: </tspan><tspan fill="#fca5a5">true</tspan><tspan fill="#9a9ab2">,</tspan></text>
       <text x="22" y="176" fill="#9a9ab2">};</text>
       <text x="42" y="176" fill="#22d3ee" font-weight="700">_
