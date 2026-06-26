@@ -63,8 +63,8 @@
       <text x="16" y="20" fill="#67e8f9">⚙️ CI/CD ativo</text>
     </g>
     <g transform="translate(392 312)">
-      <rect width="196" height="30" rx="15" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.4"/>
-      <text x="16" y="20" fill="#6ee7b7">🧙 Contribuidor open-source</text>
+      <rect width="242" height="30" rx="15" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.4"/>
+      <text x="17" y="20" fill="#6ee7b7">🧙 Contribuidor open-source</text>
     </g>
   </g>
 
