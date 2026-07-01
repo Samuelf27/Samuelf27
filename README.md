@@ -35,9 +35,10 @@ Esses aqui têm testes, CI rodando e, na maioria, uma demo no ar pra você clica
 
 #### Open-source
 
-Mandei uma correção pro **[Medusa](https://github.com/medusajs/medusa)** (e-commerce com 34k+ ⭐ no GitHub): um bug de separador de caminho que dava falso positivo no Windows. Fui atrás da causa, mandei junto um teste de regressão e o changeset que o projeto pede.
+Mandei duas contribuições pra projetos open-source (as duas em revisão):
 
-🔗 **[medusajs/medusa #15858](https://github.com/medusajs/medusa/pull/15858)**
+- **[Medusa](https://github.com/medusajs/medusa)** (e-commerce, 34k+ ⭐): corrigi um bug de separador de caminho que dava falso positivo no Windows — fui atrás da causa e mandei junto um teste de regressão e o changeset. → **[PR #15858](https://github.com/medusajs/medusa/pull/15858)**
+- **[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)**: adicionei o algoritmo Comb Sort. → **[PR #309](https://github.com/TheAlgorithms/TypeScript/pull/309)**
 
 > **Já em produção:** &nbsp; sites da **[1M2F Art Gallery](https://1m2f.com/)** e da **[SFN Creative](https://sfncreative.tech/)** (Next.js + TypeScript + Supabase).
 >
@@ -86,17 +87,6 @@ Mandei uma correção pro **[Medusa](https://github.com/medusajs/medusa)** (e-co
 ![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat&logo=powerbi&logoColor=black)
 
 ---
-
-<table>
-<tr>
-<td width="58%">
-<img src="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" width="100%" />
-</td>
-<td width="42%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="100%" />
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/github-snake-dark.svg" alt="Contribuições" width="100%" />
