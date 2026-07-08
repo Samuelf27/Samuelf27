@@ -35,10 +35,10 @@ Esses aqui têm testes, CI rodando e, na maioria, uma demo no ar pra você clica
 
 #### Open-source
 
-Mandei duas contribuições pra projetos open-source (as duas em revisão):
+Gosto de meter a mão em projetos open-source de verdade:
 
-- **[Medusa](https://github.com/medusajs/medusa)** (e-commerce, 34k+ ⭐): corrigi um bug de separador de caminho que dava falso positivo no Windows — fui atrás da causa e mandei junto um teste de regressão e o changeset. → **[PR #15858](https://github.com/medusajs/medusa/pull/15858)**
-- **[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)**: adicionei o algoritmo Comb Sort. → **[PR #309](https://github.com/TheAlgorithms/TypeScript/pull/309)**
+- **[Medusa](https://github.com/medusajs/medusa)** (e-commerce, 34k+ ⭐): diagnostiquei um bug de separador de caminho que dava falso positivo no Windows e mandei a correção com teste de regressão e changeset. Um fix igual ao meu ([#15784](https://github.com/medusajs/medusa/pull/15784)) foi mergeado por outra pessoa quase junto, então o [meu PR](https://github.com/medusajs/medusa/pull/15858) foi fechado como duplicado — mas a análise estava certa, e foi ótimo pra pegar o ritmo de um codebase grande.
+- **[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)**: PR aberto adicionando o algoritmo Comb Sort. → **[PR #309](https://github.com/TheAlgorithms/TypeScript/pull/309)**
 
 > **Já em produção:** &nbsp; sites da **[1M2F Art Gallery](https://1m2f.com/)** e da **[SFN Creative](https://sfncreative.tech/)** (Next.js + TypeScript + Supabase).
 >
