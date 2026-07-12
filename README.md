@@ -17,7 +17,7 @@ Sou desenvolvedor full-stack e moro em São Paulo. No dia a dia trabalho mais co
 
 Uma coisa que levo a sério: não gosto de deixar projeto só rodando na minha máquina. Tento sempre escrever testes, configurar o CI e publicar de verdade, pra dar pra abrir e usar.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** pela FIAP**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela **FIAP**.
 
 ---
 
