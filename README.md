@@ -30,7 +30,7 @@ Esses aqui têm testes, CI rodando e, na maioria, uma demo no ar pra você clica
 | 📊 **[Admin Dashboard](https://github.com/Samuelf27/admin-dashboard)** | Painel admin com login, CRUD, tabela, gráficos e dark mode | `React` `TS` `Tailwind` | **[ver demo](https://samuelf27.github.io/admin-dashboard/)** |
 | 🔐 **[node-api-starter](https://github.com/Samuelf27/node-api-starter)** | Base de API REST com JWT + refresh, RBAC, Zod, Swagger e Docker | `TypeScript` `Express` | testada |
 | 🎨 **[react-ui-kit](https://github.com/Samuelf27/react-ui-kit)** | Biblioteca de componentes React com tokens e dark mode | `React` `TS` `npm` | **[ver docs](https://samuelf27.github.io/react-ui-kit/)** |
-| 🇧🇷 **[br-utils](https://github.com/Samuelf27/br-utils)** | Validação de CPF, CNPJ, PIS e afins — 30 testes + CI | `TypeScript` `npm` | **[ver demo](https://samuelf27.github.io/br-utils/)** |
+| 🇧🇷 **[br-utils](https://github.com/Samuelf27/br-utils)** | Validação de CPF, CNPJ, PIS e afins — 34 testes + CI | `TypeScript` `npm` | **[ver demo](https://samuelf27.github.io/br-utils/)** |
 | 🧮 **[data-structures](https://github.com/Samuelf27/data-structures-typescript)** | Estruturas de dados e algoritmos em TS, com Big-O e testes | `TypeScript` | testada |
 
 #### Open-source
@@ -50,9 +50,9 @@ Gosto de meter a mão em projetos open-source de verdade:
 
 <table align="center">
 <tr align="center">
-  <td><h3>70+</h3>testes<br>escritos</td>
-  <td><h3>6+</h3>repos com<br>CI/CD</td>
-  <td><h3>12+</h3>projetos<br>no ar</td>
+  <td><h3>100+</h3>testes<br>escritos</td>
+  <td><h3>10+</h3>repos com<br>CI/CD</td>
+  <td><h3>13+</h3>projetos<br>no ar</td>
   <td><h3>2</h3>PRs em<br>open-source</td>
   <td><h3>41</h3>repositórios</td>
 </tr>
