@@ -6,7 +6,7 @@
   <a href="https://samuelf27.github.io/hub/"><img src="https://img.shields.io/badge/🚀_Hub_de_Projetos-8b5cf6?style=for-the-badge&logoColor=white" alt="Hub"/></a>
   <a href="https://samuelf27.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfólio-22d3ee?style=for-the-badge&logoColor=white" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/samuel-ferreira27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:samuel_f27@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:samuel_f27@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela **FIAP**.
 
 ### Projetos
 
-Esses aqui têm testes, CI rodando e, na maioria, uma demo no ar pra você clicar e ver funcionando:
+A maioria tem testes, CI rodando e uma demo no ar pra você clicar e ver funcionando:
 
 | Projeto | O que faz | Stack | |
 |---|---|---|---|
