@@ -62,19 +62,6 @@ Fora do que é público, colaboro em projetos privados de terceiros, com PRs vol
 | **Dados e análise** | <img src="https://img.shields.io/badge/-Python-0A1626?style=flat-square&logo=python&logoColor=2DD4BF" alt="Python"> <img src="https://img.shields.io/badge/-Pandas-0A1626?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/-Power_BI-0A1626?style=flat-square" alt="Power BI"> |
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&icon_color=2DD4BF&locale=pt-br&rank_icon=off">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&bg_color=F4F7FA&title_color=0E7C7B&text_color=4A5D70&icon_color=0E7C7B&locale=pt-br&rank_icon=off">
-    <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&icon_color=2DD4BF&locale=pt-br&rank_icon=off" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&locale=pt-br&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&bg_color=F4F7FA&title_color=0E7C7B&text_color=4A5D70&locale=pt-br&langs_count=6">
-    <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&locale=pt-br&langs_count=6" height="165">
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/github-snake-dark.svg" alt="Gráfico de contribuições" width="100%" />
 </p>
 
