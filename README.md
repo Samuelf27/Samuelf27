@@ -3,95 +3,68 @@
 </p>
 
 <p align="center">
-  <a href="https://samuelf27.github.io/hub/"><img src="https://img.shields.io/badge/🚀_Hub_de_Projetos-8b5cf6?style=for-the-badge&logoColor=white" alt="Hub"/></a>
-  <a href="https://samuelf27.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfólio-22d3ee?style=for-the-badge&logoColor=white" alt="Portfólio"/></a>
-  <a href="https://www.linkedin.com/in/samuel-ferreira27/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:samuel_f27@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="https://samuelf27.github.io/hub/">Hub de projetos</a> ·
+  <a href="https://samuelf27.github.io/portfolio/">Portfólio</a> ·
+  <a href="https://sfncreative.tech/">SFN Creative</a> ·
+  <a href="https://www.linkedin.com/in/samuel-ferreira27/">LinkedIn</a> ·
+  <a href="mailto:samuel_f27@outlook.com">E-mail</a>
 </p>
 
 ---
 
-### Sobre mim
+## Sobre
 
-Sou desenvolvedor full-stack e moro em São Paulo. No dia a dia trabalho mais com **TypeScript, React/Next e Node**, mas curto mexer nas duas pontas — desde montar uma API com login e banco até cuidar da interface.
+Desenvolvedor full-stack em São Paulo, com foco em **TypeScript, React/Next.js e Node.js**. Trabalho nas duas pontas: modelagem de dados e API com autenticação e controle de acesso de um lado, interface e experiência de uso do outro.
 
-Uma coisa que levo a sério: não gosto de deixar projeto só rodando na minha máquina. Tento sempre escrever testes, configurar o CI e publicar de verdade, pra dar pra abrir e usar.
+Um critério orienta o que publico aqui: **projeto que só roda na minha máquina não conta**. Procuro fechar o ciclo — testes automatizados, CI configurado e algo publicado que dê para abrir e usar.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** pela **FIAP**.
+Formado em Análise e Desenvolvimento de Sistemas pela FIAP. Fundador da [SFN Creative](https://sfncreative.tech/), onde desenvolvo sites, aplicações e sistemas sob demanda.
 
----
+## Projetos em destaque
 
-### Projetos
-
-A maioria tem testes, CI rodando e uma demo no ar pra você clicar e ver funcionando:
-
-| Projeto | O que faz | Stack | |
+| Projeto | Descrição | Stack | |
 |---|---|---|---|
-| 📊 **[Admin Dashboard](https://github.com/Samuelf27/admin-dashboard)** | Painel admin com login, CRUD, tabela, gráficos e dark mode | `React` `TS` `Tailwind` | **[ver demo](https://samuelf27.github.io/admin-dashboard/)** |
-| 🔐 **[node-api-starter](https://github.com/Samuelf27/node-api-starter)** | Base de API REST com JWT + refresh, RBAC, Zod, Swagger e Docker | `TypeScript` `Express` | testada |
-| 🎨 **[react-ui-kit](https://github.com/Samuelf27/react-ui-kit)** | Biblioteca de componentes React com tokens e dark mode | `React` `TS` `npm` | **[ver docs](https://samuelf27.github.io/react-ui-kit/)** |
-| 🇧🇷 **[br-utils](https://github.com/Samuelf27/br-utils)** | Validação de CPF, CNPJ, PIS e afins — 34 testes + CI | `TypeScript` `npm` | **[ver demo](https://samuelf27.github.io/br-utils/)** |
-| 🧮 **[data-structures](https://github.com/Samuelf27/data-structures-typescript)** | Estruturas de dados e algoritmos em TS, com Big-O e testes | `TypeScript` | testada |
+| **[admin-dashboard](https://github.com/Samuelf27/admin-dashboard)** | Painel administrativo com autenticação, CRUD, tabela paginada, gráficos e tema escuro | React · TypeScript · Tailwind | [demo](https://samuelf27.github.io/admin-dashboard/) |
+| **[node-api-starter](https://github.com/Samuelf27/node-api-starter)** | Base de API REST para produção: JWT com refresh, RBAC, validação com Zod, Swagger e Docker | TypeScript · Express | testes + CI |
+| **[react-ui-kit](https://github.com/Samuelf27/react-ui-kit)** | Biblioteca de componentes acessíveis com design tokens e tema escuro | React · TypeScript | [documentação](https://samuelf27.github.io/react-ui-kit/) |
+| **[br-utils](https://github.com/Samuelf27/br-utils)** | Validação e formatação de documentos brasileiros — CPF, CNPJ, CEP, telefone, PIS e moeda. Zero dependências | TypeScript | [demo](https://samuelf27.github.io/br-utils/) |
+| **[data-structures-typescript](https://github.com/Samuelf27/data-structures-typescript)** | Estruturas de dados e algoritmos clássicos, com tipagem genérica e complexidade documentada | TypeScript | testes + CI |
 
-#### Open-source
+Outras ferramentas: **[DevToolbox](https://samuelf27.github.io/devtoolbox/)** (utilitários de desenvolvimento no navegador), **[GitHub Analyzer](https://samuelf27.github.io/github-analyzer/)** (análise de perfis via API) e **[br-toolkit-extension](https://github.com/Samuelf27/br-toolkit-extension)** (extensão Chrome, Manifest V3).
 
-Gosto de meter a mão em projetos open-source de verdade:
+O **[Hub](https://samuelf27.github.io/hub/)** reúne todos eles com demos ao vivo.
 
-- **[Medusa](https://github.com/medusajs/medusa)** (e-commerce, 34k+ ⭐): diagnostiquei um bug de separador de caminho que dava falso positivo no Windows e mandei a correção com teste de regressão e changeset. Um fix igual ao meu ([#15784](https://github.com/medusajs/medusa/pull/15784)) foi mergeado por outra pessoa quase junto, então o [meu PR](https://github.com/medusajs/medusa/pull/15858) foi fechado como duplicado — mas a análise estava certa, e foi ótimo pra pegar o ritmo de um codebase grande.
-- **[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)**: PR aberto adicionando o algoritmo Comb Sort. → **[PR #309](https://github.com/TheAlgorithms/TypeScript/pull/309)**
+## Em produção
 
-> **Já em produção:** &nbsp; sites da **[1M2F Art Gallery](https://1m2f.com/)** e da **[SFN Creative](https://sfncreative.tech/)** (Next.js + TypeScript + Supabase).
->
-> **Outros que curto:** &nbsp; [DevToolbox](https://samuelf27.github.io/devtoolbox/) · [GitHub Analyzer](https://samuelf27.github.io/github-analyzer/) · [Doce Sabor](https://github.com/Samuelf27/doce_sabor_fullstack_food_ordering_platform) (full-stack) · [Score de crédito com ML](https://github.com/Samuelf27/Analise_de_Score_de_Clientes_com_Python_Pandas_Sklearn)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [1m2f.com](https://1m2f.com/) | Plataforma de galeria de arte desenvolvida para a 1M2F | Next.js · TypeScript · PostgreSQL |
+| [sfncreative.tech](https://sfncreative.tech/) | Site institucional e portfólio da SFN Creative | React · TypeScript · Supabase |
 
----
+Desenvolvo também sistemas de gestão que ficam em repositórios privados — back-office para climatização (ordens de serviço, PMOC, portal do cliente) e plataforma de encomendas com pagamento integrado. São aplicações com controle de acesso por papel, isolamento de dados no banco via RLS, testes de ponta a ponta e deploy automatizado.
 
-### Um pouco de contexto
+## Contribuições em open-source
 
-<table align="center">
-<tr align="center">
-  <td><h3>100+</h3>testes<br>escritos</td>
-  <td><h3>10+</h3>repos com<br>CI/CD</td>
-  <td><h3>13+</h3>projetos<br>no ar</td>
-  <td><h3>2</h3>PRs em<br>open-source</td>
-  <td><h3>41</h3>repositórios</td>
-</tr>
-</table>
+- **[TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)** — implementação do algoritmo Comb Sort. [PR #309](https://github.com/TheAlgorithms/TypeScript/pull/309), em revisão.
+- **[Medusa](https://github.com/medusajs/medusa)** — diagnóstico de um bug de separador de caminho que gerava falso positivo em regra de lint no Windows. Enviei a correção com teste de regressão e changeset ([PR #15858](https://github.com/medusajs/medusa/pull/15858)). Uma correção equivalente ([#15784](https://github.com/medusajs/medusa/pull/15784)) foi mergeada por outra pessoa quase ao mesmo tempo e o meu PR foi fechado como duplicado — mas a análise estava correta, e valeu pela prática de navegar um codebase grande.
 
----
+Fora do que é público, colaboro em projetos privados de terceiros, com PRs voltados a isolamento multi-tenant, validação de contratos entre front e API, resolução de vulnerabilidades de dependência e configuração de CI.
 
-### Ferramentas que uso
+## Tecnologias
 
-**Front** &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0b1120?style=flat&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white)
-
-**Back & banco** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)
-
-**Testes & devops** &nbsp;
-![Vitest](https://img.shields.io/badge/Vitest-6e9f18?style=flat&logo=vitest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white)
-
-**Dados** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat&logo=powerbi&logoColor=black)
-
----
+**Front-end** — Next.js, React, TypeScript, Tailwind CSS, Vite
+**Back-end e dados** — Node.js, Express, PostgreSQL, Supabase, Prisma, Zod
+**Testes e infraestrutura** — Vitest, Playwright, Docker, GitHub Actions, nginx
+**Dados e análise** — Python, Pandas, Power BI
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/github-snake-dark.svg" alt="Contribuições" width="100%" />
+  <img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/github-snake-dark.svg" alt="Gráfico de contribuições" width="100%" />
 </p>
 
+---
+
 <p align="center">
-  Tô aberto a oportunidades — se tiver algo bacana, <a href="https://www.linkedin.com/in/samuel-ferreira27/">me chama no LinkedIn</a>. 👋
+  Aberto a novas oportunidades e projetos —
+  <a href="https://www.linkedin.com/in/samuel-ferreira27/">LinkedIn</a> ou
+  <a href="mailto:samuel_f27@outlook.com">samuel_f27@outlook.com</a>
 </p>
