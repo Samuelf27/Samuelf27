@@ -1,13 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/main/assets/header.svg" alt="Samuel Ferreira — Desenvolvedor Full-Stack" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuelf27/Samuelf27/main/assets/perfil-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuelf27/Samuelf27/main/assets/perfil-light.png">
+  <img alt="Samuel Ferreira — Desenvolvedor Full-Stack" src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/main/assets/perfil-dark.png" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://samuelf27.github.io/hub/">Hub de projetos</a> ·
-  <a href="https://samuelf27.github.io/portfolio/">Portfólio</a> ·
-  <a href="https://sfncreative.tech/">SFN Creative</a> ·
-  <a href="https://www.linkedin.com/in/samuel-ferreira27/">LinkedIn</a> ·
-  <a href="mailto:samuel_f27@outlook.com">E-mail</a>
+  <a href="https://samuelf27.github.io/hub/"><img src="https://img.shields.io/badge/🚀_Hub_de_projetos-0A1626?style=for-the-badge" alt="Hub de projetos"></a>
+  <a href="https://samuelf27.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-0E7C7B?style=for-the-badge" alt="Portfólio"></a>
+  <a href="https://sfncreative.tech/"><img src="https://img.shields.io/badge/SFN_Creative-0A1626?style=for-the-badge" alt="SFN Creative"></a>
+  <a href="https://www.linkedin.com/in/samuel-ferreira27/"><img src="https://img.shields.io/badge/LinkedIn-0E7C7B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:samuel_f27@outlook.com"><img src="https://img.shields.io/badge/E--mail-0A1626?style=for-the-badge&logo=maildotru&logoColor=2DD4BF" alt="E-mail"></a>
 </p>
 
 ---
@@ -52,10 +54,25 @@ Fora do que é público, colaboro em projetos privados de terceiros, com PRs vol
 
 ## Tecnologias
 
-**Front-end** — Next.js, React, TypeScript, Tailwind CSS, Vite
-**Back-end e dados** — Node.js, Express, PostgreSQL, Supabase, Prisma, Zod
-**Testes e infraestrutura** — Vitest, Playwright, Docker, GitHub Actions, nginx
-**Dados e análise** — Python, Pandas, Power BI
+| | |
+|---|---|
+| **Front-end** | <img src="https://img.shields.io/badge/-Next.js-0A1626?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/-React-0A1626?style=flat-square&logo=react&logoColor=2DD4BF" alt="React"> <img src="https://img.shields.io/badge/-TypeScript-0A1626?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript"> <img src="https://img.shields.io/badge/-Tailwind_CSS-0A1626?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/-Vite-0A1626?style=flat-square&logo=vite&logoColor=2DD4BF" alt="Vite"> |
+| **Back-end e dados** | <img src="https://img.shields.io/badge/-Node.js-0A1626?style=flat-square&logo=nodedotjs&logoColor=2DD4BF" alt="Node.js"> <img src="https://img.shields.io/badge/-Express-0A1626?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/-PostgreSQL-0A1626?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-Supabase-0A1626?style=flat-square&logo=supabase&logoColor=2DD4BF" alt="Supabase"> <img src="https://img.shields.io/badge/-Prisma-0A1626?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> <img src="https://img.shields.io/badge/-Zod-0A1626?style=flat-square&logo=zod&logoColor=2DD4BF" alt="Zod"> |
+| **Testes e infra** | <img src="https://img.shields.io/badge/-Vitest-0A1626?style=flat-square&logo=vitest&logoColor=2DD4BF" alt="Vitest"> <img src="https://img.shields.io/badge/-Playwright-0A1626?style=flat-square&logo=playwright&logoColor=2DD4BF" alt="Playwright"> <img src="https://img.shields.io/badge/-Docker-0A1626?style=flat-square&logo=docker&logoColor=2DD4BF" alt="Docker"> <img src="https://img.shields.io/badge/-GitHub_Actions-0A1626?style=flat-square&logo=githubactions&logoColor=2DD4BF" alt="GitHub Actions"> <img src="https://img.shields.io/badge/-nginx-0A1626?style=flat-square&logo=nginx&logoColor=2DD4BF" alt="nginx"> |
+| **Dados e análise** | <img src="https://img.shields.io/badge/-Python-0A1626?style=flat-square&logo=python&logoColor=2DD4BF" alt="Python"> <img src="https://img.shields.io/badge/-Pandas-0A1626?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/-Power_BI-0A1626?style=flat-square" alt="Power BI"> |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&icon_color=2DD4BF&locale=pt-br&rank_icon=off">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&bg_color=F4F7FA&title_color=0E7C7B&text_color=4A5D70&icon_color=0E7C7B&locale=pt-br&rank_icon=off">
+    <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Samuelf27&show_icons=true&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&icon_color=2DD4BF&locale=pt-br&rank_icon=off" height="165">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&locale=pt-br&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&bg_color=F4F7FA&title_color=0E7C7B&text_color=4A5D70&locale=pt-br&langs_count=6">
+    <img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelf27&layout=compact&hide_border=true&bg_color=0A1626&title_color=2DD4BF&text_color=9FB2C4&locale=pt-br&langs_count=6" height="165">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/github-snake-dark.svg" alt="Gráfico de contribuições" width="100%" />
