@@ -16,7 +16,7 @@
 
 Desenvolvedor full-stack em São Paulo, com foco em **TypeScript, React/Next.js e Node.js**. Trabalho nas duas pontas: modelagem de dados e API com autenticação e controle de acesso de um lado, interface e experiência de uso do outro.
 
-Um critério orienta o que publico aqui: **projeto que só roda na minha máquina não conta**. Procuro fechar o ciclo — testes automatizados, CI configurado e algo publicado que dê para abrir e usar.
+Um critério orienta o que publico aqui: **projeto que só roda na minha máquina não conta**. Procuro fechar o ciclo testes automatizados, CI configurado e algo publicado que dê para abrir e usar.
 
 Formado em Análise e Desenvolvimento de Sistemas pela FIAP. Fundador da [SFN Creative](https://sfncreative.tech/), onde desenvolvo sites, aplicações e sistemas sob demanda.
 
@@ -41,7 +41,7 @@ O **[Hub](https://samuelf27.github.io/hub/)** reúne todos eles com demos ao viv
 | **[1m2f.com](https://1m2f.com/)** | Plataforma de galeria de arte desenvolvida para a 1M2F | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **[sfncreative.tech](https://sfncreative.tech/)** | Site institucional e portfólio da SFN Creative | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) |
 
-Desenvolvo também sistemas de gestão que ficam em repositórios privados — back-office para climatização (ordens de serviço, PMOC, portal do cliente) e plataforma de encomendas com pagamento integrado. São aplicações com controle de acesso por papel, isolamento de dados no banco via RLS, testes de ponta a ponta e deploy automatizado.
+Desenvolvo também sistemas de gestão que ficam em repositórios privados back-office para climatização (ordens de serviço, PMOC, portal do cliente) e plataforma de encomendas com pagamento integrado. São aplicações com controle de acesso por papel, isolamento de dados no banco via RLS, testes de ponta a ponta e deploy automatizado.
 
 ## Contribuições em open-source
 
