@@ -9,27 +9,86 @@ Fundei a **[SFN Creative](https://sfncreative.tech/)**: sites, apps e sistemas d
 
 ## Selected work
 
-**[node-api-starter](https://github.com/Samuelf27/node-api-starter)**  
-Base de API de produção: JWT access + refresh com rotação, RBAC, Zod e Swagger. Repositório plugável, memória ou PostgreSQL.  
-`TypeScript` `Express` `Docker` · 20 testes de integração · `v1.0.0`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**BR Toolkit** · [lib](https://github.com/Samuelf27/br-utils) · [API](https://github.com/Samuelf27/br-validator-api) · [CLI](https://github.com/Samuelf27/br-gen) · [extensão](https://github.com/Samuelf27/br-toolkit-extension)  
-CPF, CNPJ, PIS, CEP e telefone. Os mesmos algoritmos em quatro superfícies, porque cada contexto consome de um jeito.  
-`TypeScript` · zero dependências · 47 testes · [demo](https://samuelf27.github.io/br-utils/)
+### node-api-starter
 
-**[react-ui-kit](https://github.com/Samuelf27/react-ui-kit)** · [documentação ao vivo](https://samuelf27.github.io/react-ui-kit/)  
-Design system acessível, com design tokens e dark mode. A documentação é construída com os próprios componentes.  
-`React` `TypeScript` `a11y` · 8 componentes · 17 testes
+Base de API de produção: JWT access + refresh com rotação, RBAC, Zod e Swagger.
 
-**[admin-dashboard](https://github.com/Samuelf27/admin-dashboard)** · [demo](https://samuelf27.github.io/admin-dashboard/)  
-CRUD com validação, tabela com busca e paginação, KPIs e gráficos. O login da demo é fictício e documentado como tal.  
-`React` `Vite` `Tailwind` `Recharts` · deploy automático
+`TypeScript` `Express` `Docker`  
+**20 testes de integração** · `v1.0.0`
 
-**[devtoolbox](https://github.com/Samuelf27/devtoolbox)** · [abrir](https://samuelf27.github.io/devtoolbox/)  
-Nove ferramentas de uso diário. Tudo roda no cliente: nada do que você cola sai do navegador.  
-`JavaScript` `Web Crypto API`
+[Código →](https://github.com/Samuelf27/node-api-starter)
 
-Mais de vinte repositórios no **[hub](https://samuelf27.github.io/hub/)**.
+</td>
+<td width="50%" valign="top">
+
+### BR Toolkit
+
+Validação de documentos brasileiros em quatro superfícies: biblioteca, API, CLI e extensão.
+
+`TypeScript` · zero dependências  
+**47 testes** · `v1.1.0`
+
+[Demo →](https://samuelf27.github.io/br-utils/) · [lib](https://github.com/Samuelf27/br-utils) · [API](https://github.com/Samuelf27/br-validator-api) · [CLI](https://github.com/Samuelf27/br-gen) · [ext](https://github.com/Samuelf27/br-toolkit-extension)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### react-ui-kit
+
+Design system acessível, com design tokens e dark mode. A documentação usa os próprios componentes.
+
+`React` `TypeScript` `a11y`  
+**8 componentes** · 17 testes
+
+[Documentação →](https://samuelf27.github.io/react-ui-kit/) · [Código](https://github.com/Samuelf27/react-ui-kit)
+
+</td>
+<td width="50%" valign="top">
+
+### admin-dashboard
+
+CRUD com validação, tabela com busca e paginação, KPIs e gráficos.
+
+`React` `Vite` `Tailwind` `Recharts`  
+**Deploy automático** · CI/CD
+
+[Demo →](https://samuelf27.github.io/admin-dashboard/) · [Código](https://github.com/Samuelf27/admin-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### devtoolbox
+
+Nove ferramentas de uso diário. Tudo roda no cliente: nada do que você cola sai do navegador.
+
+`JavaScript` `Web Crypto API`  
+**9 utilitários** · sem build
+
+[Abrir →](https://samuelf27.github.io/devtoolbox/) · [Código](https://github.com/Samuelf27/devtoolbox)
+
+</td>
+<td width="50%" valign="top">
+
+### hub
+
+Todos os projetos num lugar, com demo ao vivo e filtro por categoria.
+
+`HTML` `CSS` `JavaScript`  
+**Mais de 20 repositórios**
+
+[Abrir →](https://samuelf27.github.io/hub/)
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
