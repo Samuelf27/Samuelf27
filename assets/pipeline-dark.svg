@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" width="760" height="290" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Samuel Ferreira, Desenvolvedor Full-Stack</title>
+<desc id="dsc">Esteira de promoção: da branch dev, passando pelos portões de lint, typecheck, teste e build, até o pull request, a branch main e a release.</desc>
+<defs>
+<pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+  <circle cx="1" cy="1" r="0.9" fill="#7A8699" opacity="0.13"/>
+</pattern>
+<style>
+.sans{font-family:ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+
+.lit{opacity:1;animation-duration:12s;animation-timing-function:linear;animation-iteration-count:infinite}
+.l1{animation-name:on1}.l2{animation-name:on2}.l3{animation-name:on3}.l4{animation-name:on4}
+.lp{animation-name:onp}.lm{animation-name:onm}.lr{animation-name:onr}
+@keyframes on1{0%,13.8%{opacity:0}17.3%,88%{opacity:1}95%,100%{opacity:0}}
+@keyframes on2{0%,22.6%{opacity:0}26.1%,88%{opacity:1}95%,100%{opacity:0}}
+@keyframes on3{0%,31.4%{opacity:0}34.9%,88%{opacity:1}95%,100%{opacity:0}}
+@keyframes on4{0%,40.2%{opacity:0}43.7%,88%{opacity:1}95%,100%{opacity:0}}
+@keyframes onp{0%,50.2%{opacity:0}53.7%,88%{opacity:1}95%,100%{opacity:0}}
+@keyframes onm{0%,56.9%{opacity:0}60.4%,88%{opacity:1}95%,100%{opacity:0}}
+@keyframes onr{0%,61%{opacity:0}65%,88%{opacity:1}95%,100%{opacity:0}}
+
+.trail{stroke-dasharray:574;stroke-dashoffset:0;animation:tr 12s linear infinite}
+@keyframes tr{0%,4.17%{stroke-dashoffset:574;opacity:1}59.17%,88%{stroke-dashoffset:0;opacity:1}95%{stroke-dashoffset:0;opacity:0}95.01%,100%{stroke-dashoffset:574;opacity:0}}
+.trail2{stroke-dasharray:74;stroke-dashoffset:0;animation:tr2 12s linear infinite}
+@keyframes tr2{0%,61%{stroke-dashoffset:74;opacity:1}65%,88%{stroke-dashoffset:0;opacity:1}95%{stroke-dashoffset:0;opacity:0}95.01%,100%{stroke-dashoffset:74;opacity:0}}
+
+.packet{opacity:0;animation:pk 12s linear infinite}
+@keyframes pk{0%,4.17%{transform:translateX(52px);opacity:0}7%{opacity:1}56%{opacity:1}59.17%{transform:translateX(626px);opacity:0}59.18%,100%{transform:translateX(626px);opacity:0}}
+
+.pulse{opacity:.5;animation:pl 12s ease-out infinite}
+@keyframes pl{0%{opacity:.25}3%{opacity:.9}9%,100%{opacity:.25}}
+.beat{opacity:1;animation:bt 3.4s ease-in-out infinite}
+@keyframes bt{0%,100%{opacity:.4}50%{opacity:1}}
+
+@media (prefers-reduced-motion:reduce){
+  *{animation:none!important}
+  .packet{opacity:0}.lit{opacity:1}
+  .trail,.trail2{stroke-dashoffset:0;opacity:1}
+  .pulse{opacity:.4}.beat{opacity:1}
+}
+</style>
+</defs>
+
+<rect width="760" height="290" fill="#0B0E13"/>
+<rect width="760" height="290" fill="url(#grid)"/>
+
+<text class="sans" x="36" y="58" font-size="34" font-weight="700" letter-spacing="-0.4" fill="#E8ECF3">SAMUEL FERREIRA</text>
+<text class="mono" x="36" y="80" font-size="11" letter-spacing="2.6"><tspan fill="#34D399">FULL-STACK DEVELOPER</tspan><tspan fill="#6B7788">  ·  </tspan><tspan fill="#7A8699">SÃO PAULO, BR</tspan></text>
+
+<g>
+  <circle class="beat" cx="626" cy="47" r="3" fill="#34D399"/>
+  <text class="mono" x="724" y="51" font-size="11" letter-spacing="1.6" text-anchor="end" fill="#7A8699">SFN CREATIVE</text>
+</g>
+
+<line x1="36" y1="100" x2="724" y2="100" stroke="#202838" stroke-width="1"/>
+
+<text class="sans" x="36" y="130" font-size="15.5" fill="#E8ECF3">Construo produtos digitais do primeiro commit ao servidor no ar.</text>
+<text class="sans" x="36" y="152" font-size="15.5" fill="#7A8699">E a esteira que leva um até o outro, com portão em cada etapa.</text>
+
+<text class="mono" x="36" y="196" font-size="10" letter-spacing="2.2" fill="#7A8699">ESTEIRA DE PROMOÇÃO  ·  APLICADA EM TODOS OS REPOSITÓRIOS</text>
+
+<line x1="52" y1="234" x2="700" y2="234" stroke="#202838" stroke-width="1.5" stroke-linecap="round"/>
+<line class="trail" x1="52" y1="234" x2="626" y2="234" stroke="#34D399" stroke-width="1.5" stroke-linecap="round"/>
+<line class="trail2" x1="626" y1="234" x2="700" y2="234" stroke="#1B7A5A" stroke-width="1.5" stroke-linecap="round"/>
+
+<circle class="pulse" cx="52" cy="234" r="10" fill="none" stroke="#34D399" stroke-width="1"/>
+<circle cx="52" cy="234" r="4.5" fill="#0B0E13" stroke="#7A8699" stroke-width="1.5"/>
+<text class="mono" x="52" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="middle" fill="#7A8699">DEV</text>
+
+<g fill="none" stroke="#6B7788" stroke-width="1.5" stroke-linecap="round">
+  <line x1="176" y1="227" x2="176" y2="241"/><line x1="268" y1="227" x2="268" y2="241"/>
+  <line x1="360" y1="227" x2="360" y2="241"/><line x1="452" y1="227" x2="452" y2="241"/>
+</g>
+<g class="mono" font-size="10" letter-spacing="1" text-anchor="middle" fill="#6B7788">
+  <text x="176" y="259">LINT</text><text x="268" y="259">TYPECHECK</text>
+  <text x="360" y="259">TESTE</text><text x="452" y="259">BUILD</text>
+</g>
+
+<g class="lit l1"><line x1="176" y1="227" x2="176" y2="241" stroke="#34D399" stroke-width="1.5" stroke-linecap="round"/><text class="mono" x="176" y="259" font-size="10" letter-spacing="1" text-anchor="middle" fill="#34D399">LINT</text></g>
+<g class="lit l2"><line x1="268" y1="227" x2="268" y2="241" stroke="#34D399" stroke-width="1.5" stroke-linecap="round"/><text class="mono" x="268" y="259" font-size="10" letter-spacing="1" text-anchor="middle" fill="#34D399">TYPECHECK</text></g>
+<g class="lit l3"><line x1="360" y1="227" x2="360" y2="241" stroke="#34D399" stroke-width="1.5" stroke-linecap="round"/><text class="mono" x="360" y="259" font-size="10" letter-spacing="1" text-anchor="middle" fill="#34D399">TESTE</text></g>
+<g class="lit l4"><line x1="452" y1="227" x2="452" y2="241" stroke="#34D399" stroke-width="1.5" stroke-linecap="round"/><text class="mono" x="452" y="259" font-size="10" letter-spacing="1" text-anchor="middle" fill="#34D399">BUILD</text></g>
+
+<rect x="549" y="227" width="14" height="14" rx="2" transform="rotate(45 556 234)" fill="#0B0E13" stroke="#6B7788" stroke-width="1.5"/>
+<text class="mono" x="556" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="middle" fill="#7A8699">PULL REQUEST</text>
+<g class="lit lp">
+  <rect x="549" y="227" width="14" height="14" rx="2" transform="rotate(45 556 234)" fill="#0B0E13" stroke="#34D399" stroke-width="1.5"/>
+  <text class="mono" x="556" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="middle" fill="#34D399">PULL REQUEST</text>
+</g>
+
+<circle cx="626" cy="234" r="5.5" fill="#0B0E13" stroke="#6B7788" stroke-width="1.5"/>
+<text class="mono" x="626" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="middle" fill="#7A8699">MAIN</text>
+<g class="lit lm">
+  <circle cx="626" cy="234" r="11" fill="none" stroke="#1B7A5A" stroke-width="1"/>
+  <circle cx="626" cy="234" r="5.5" fill="#34D399" stroke="#34D399" stroke-width="1.5"/>
+  <text class="mono" x="626" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="middle" fill="#34D399">MAIN</text>
+</g>
+
+<path d="M694 229.5 L702 234 L694 238.5 Z" fill="#6B7788"/>
+<text class="mono" x="724" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="end" fill="#7A8699">RELEASE</text>
+<g class="lit lr">
+  <path d="M694 229.5 L702 234 L694 238.5 Z" fill="#34D399"/>
+  <text class="mono" x="724" y="217" font-size="10.5" letter-spacing="1.2" text-anchor="end" fill="#34D399">RELEASE</text>
+</g>
+
+<g class="packet">
+  <circle cx="0" cy="234" r="9" fill="#34D399" opacity="0.14"/>
+  <circle cx="0" cy="234" r="4" fill="#34D399"/>
+</g>
+</svg>

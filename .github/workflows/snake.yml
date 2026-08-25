@@ -1,4 +1,8 @@
-name: Generate Snake
+name: Gráfico de contribuições
+
+# Regenera a animação do gráfico de contribuições e publica os SVGs na branch `output`.
+# Justificativa: é o único dado da página que muda sozinho. Gerar aqui evita depender
+# de um serviço de terceiros em tempo de carregamento do README.
 
 on:
   schedule:
@@ -7,21 +11,25 @@ on:
   push:
     branches: [main]
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
-  generate:
+  gerar:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Gera a animação da cobrinha
+      - name: Gera os SVGs nas cores da identidade
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?color_snake=#34D399&color_dots=#161B22,#134E3A,#1B7A5A,#26A374,#34D399
+            dist/snake-light.svg?color_snake=#047857&color_dots=#EBEDF0,#A7F3D0,#6EE7B7,#34D399,#047857
 
-      - name: Publica no branch output
+      - name: Publica na branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
