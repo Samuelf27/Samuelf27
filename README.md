@@ -117,4 +117,8 @@ Todos os projetos, com demo ao vivo e filtro por categoria.
   <img width="100%" src="https://raw.githubusercontent.com/Samuelf27/Samuelf27/output/snake-dark.svg" alt="Gráfico de contribuições do último ano, percorrido por uma linha animada.">
 </picture>
 
-**Aberto a projetos.** [sfncreative.tech](https://sfncreative.tech/) · [LinkedIn](https://www.linkedin.com/in/samuel-ferreira27/) · [Instagram](https://www.instagram.com/samuuka_zs/)
+## Contato
+
+**Disponível para contratação:** projetos pela SFN Creative, freelance/PJ ou vaga efetiva. Remoto.
+
+[LinkedIn](https://www.linkedin.com/in/samuel-ferreira27/) · [sfncreative.tech](https://sfncreative.tech/)
