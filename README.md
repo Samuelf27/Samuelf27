@@ -15,7 +15,7 @@ Fundei a **[SFN Creative](https://sfncreative.tech/)**: sites, apps e sistemas d
 
 ### node-api-starter
 
-Base de API de produção: JWT access + refresh com rotação, RBAC, Zod e Swagger.
+API de produção: JWT access + refresh, RBAC, Zod e Swagger.
 
 `TypeScript` `Express` `Docker`  
 **20 testes de integração** · `v1.0.0`
@@ -27,7 +27,7 @@ Base de API de produção: JWT access + refresh com rotação, RBAC, Zod e Swagg
 
 ### BR Toolkit
 
-Validação de documentos brasileiros em quatro superfícies: biblioteca, API, CLI e extensão.
+Documentos brasileiros em quatro superfícies: lib, API, CLI e extensão.
 
 `TypeScript` · zero dependências  
 **47 testes** · `v1.1.0`
@@ -41,7 +41,7 @@ Validação de documentos brasileiros em quatro superfícies: biblioteca, API, C
 
 ### react-ui-kit
 
-Design system acessível, com design tokens e dark mode. A documentação usa os próprios componentes.
+Componentes acessíveis com design tokens. A doc usa os próprios componentes.
 
 `React` `TypeScript` `a11y`  
 **8 componentes** · 17 testes
@@ -53,7 +53,7 @@ Design system acessível, com design tokens e dark mode. A documentação usa os
 
 ### admin-dashboard
 
-CRUD com validação, tabela com busca e paginação, KPIs e gráficos.
+CRUD, tabela com busca e paginação, KPIs e gráficos.
 
 `React` `Vite` `Tailwind` `Recharts`  
 **Deploy automático** · CI/CD
@@ -67,7 +67,7 @@ CRUD com validação, tabela com busca e paginação, KPIs e gráficos.
 
 ### devtoolbox
 
-Nove ferramentas de uso diário. Tudo roda no cliente: nada do que você cola sai do navegador.
+Nove ferramentas de uso diário. Nada do que você cola sai do navegador.
 
 `JavaScript` `Web Crypto API`  
 **9 utilitários** · sem build
@@ -79,7 +79,7 @@ Nove ferramentas de uso diário. Tudo roda no cliente: nada do que você cola sa
 
 ### hub
 
-Todos os projetos num lugar, com demo ao vivo e filtro por categoria.
+Todos os projetos, com demo ao vivo e filtro por categoria.
 
 `HTML` `CSS` `JavaScript`  
 **Mais de 20 repositórios**
